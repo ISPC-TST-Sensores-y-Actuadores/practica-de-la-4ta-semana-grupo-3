@@ -1,0 +1,5 @@
+EJERCICIO 1 F
+
+COMO IMPLEMENTARIA UN SENSOR INTELIGENTE DE POSICION GLOBAL.
+
+Con una fusión sensores que consiste en el empleo de la señal del GPS convencional y una Unidad de Medición Inercial IMU,que integra varios sensores: Proximidad,acelerómetros y de giróscopicos por lo cual el dispositivo iot a través de la  IMU se pueden medir los cambios de velocidad y maniobras y ubicacionque realiza un vehículo o dispositivo iot.
